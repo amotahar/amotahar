@@ -1,16 +1,56 @@
-### Hi there 👋
+<a align="center" href="https://www.facebook.com/afnanferdousi2006">
+<img src="https://ibb.co/QDbjq7K" />
+</a>
 
-<!--
-**amotahar/amotahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :chart_with_upwards_trend: Current Stats
 
-Here are some ideas to get you started:
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=AfnanFerdousi&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.linkedin.com/in/afnanferdousi550/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/afnanferdousi2006/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://twitter.com/afnan_ferdousi)
+
+<br />
+
+## :computer: Technologies that I know
+
+<br>
+<p align="center">
+<img src="https://i.ibb.co/LRGrxXz/HTML.png"/>
+<img src="https://i.ibb.co/Tv1hTPX/css.png"/>
+<img src="https://i.ibb.co/y5ZQy5n/Java-Script.png"/>
+<img src="https://i.ibb.co/VN2LQ48/c.png"/>
+</p>
+<p align="center">
+<img src="https://i.ibb.co/X3bFjB7/react.png"/>
+<img style="border-radius: 8px; width: 60px;" src="https://i.ibb.co/hCYDvwR/next.png"/>
+<img src="https://i.ibb.co/z7CtCdr/sass.png"/>
+<img src="https://i.ibb.co/nfxyBK4/tailwind.png"/>
+<img src="https://i.ibb.co/Msy7s6k/Bootsrap.png"/>
+<img src="https://i.ibb.co/zGy33LP/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://i.ibb.co/SNXx7j6/node.png"/>
+<img src="https://i.ibb.co/KmgyfpD/express.png"/>
+<img src="https://i.ibb.co/88twDYS/mongo.png"/>
+</p><br/>
+
+## :eyes: Current overview
+<div>
+<div align="center">
+<a href="https://app.daily.dev/amotahar">https://ibb.co/QDbjq7KK</a>
+</div>
+
+### 🔭 I’m working - In Ostad. 
+### 🌱 I’m exploring - Mobile and web app development. 
+### 🤔 I’m trying - To develop impactful web apps. 
+### ⚡ Fun fact - I can speak 4 languages.
+### ❤️ Hobby - Sleeping and reading mangas.
+
+</div>
+<br />
