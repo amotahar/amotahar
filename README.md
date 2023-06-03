@@ -45,7 +45,7 @@
   ![Photoshop](https://img.shields.io/badge/-BasicPhotoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
-
+<br/>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
