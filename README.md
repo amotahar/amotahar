@@ -1,50 +1,73 @@
-# Hey there! I'm Motahar Hossain.
-## Mern Stack Developer
+<div align="center">
+  
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://motahar-hossain-portpolio.netlify.app/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/u/0/#inbox)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/motaharhossain/)
 
 
-### 👨🏻‍💻 &nbsp;About Me
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amotahar&label=Profile%20views&color=0e75b6&style=flat" alt="amotahar" /> </p>
+<div>
+<!--hand gif  -->
+<h1 align="center"> Hello, I'm Motahar Hossain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1>
 
-- :computer: I just love `Exploring New Things` - and - `Quick Solutions` 🤔
-- 🎓 &nbsp; I'm student of `physics`, but my dreams brought me here.
-- 🌱 &nbsp; Learning more about Web Development and Design.
-- ✍️ &nbsp; Pursuing Web Design and Article Writing as hobbies/side hustles.
-- :book: &nbsp; Favourite Line `Stay Hungry Stay Foolish`.
 
-- 🔭 I’m currently working on ...MERN Stack
-- 👯 I’m looking to collaborate on any MERN Stack project
-- 💬 Free to ask me anything
+  
+<div align="left" text-align= "justify">
+Motahar Hossain has been learning MERN Stack for the last 2 year. Now, I am seeking of a paid internship or Jr. developer job to utilize my technical skills, talent, creativity, and sincerity, and explore new skills for the better achievement of any organization.
+</div>
+ <br />
 
-### 🛠 &nbsp;Tech Stack
+<div>
+  
+  <div align = "center">
+<br />
 
-- 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-  ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-BasicIllustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-BasicPhotoshop-333333?style=flat&logo=adobe-photoshop)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=113727503)
+![focus](https://img.shields.io/badge/focus-FullStack-critical)
+![projects](https://img.shields.io/badge/projects-15-important)
+    <br><br>
 
-<br/>
+
+    
+  
+<div align = "left">
+  
+### **🔭Have worked with the following technologies:**
+	Programming Language            : JavaScript.
+	Frontend Development            : HTML, CSS, Bootstrap, Tailwind, React.js.
+	Backend Development             : Node JS, Express JS.
+	Databases & Storage	           	: MongoDB.
+	Authentication		              : Firebase, JWT.
+	Version Control                 : Git with Smart Git Flow; GitHub.
+	
+
+
+
+### **✅ Have knowledge of the following technologies:**
+	Languages			        : C, C++, JAVA
+	Frameworks/CMS		  	: WordPress, Next JS, Redux.
+	Databases & Storage		: MySql.
+
+### **🌱 Learning and exploring:**
+	* Typescript 
+ 	* AWS
+ 	* Docker
+ 	* PostgreSQL
+	* GraphQL
+	* React Native
+
+
+
+### 📫  How to reach me:
+    Email     : motaharhosssain.cse@gmail.com
+    Mobile    : 01637623438
+    Linkedin  : https://www.linkedin.com/in/motaharhossain/
+
+
+</div> 
+
+
 <br/>
 ### ⚙️ &nbsp;GitHub Analytics
 
