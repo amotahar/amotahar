@@ -35,17 +35,22 @@ Motahar Hossain has been learning MERN Stack for the last 2 year. Now, I am seek
   
 ### **🔭Have worked with the following technologies:**
 	Programming Language            : JavaScript.
-	Frontend Development            : HTML, CSS, Bootstrap, Tailwind, React.js.
+	Frontend Development            : HTML, CSS.
+ 	Frameworks			: Bootstrap, Tailwind, MaterialUI, DaisyUI.
+  	Library				: React.js.
 	Backend Development             : Node JS, Express JS.
-	Databases & Storage	        : MongoDB.
-	Authentication		        : Firebase, JWT.
+ 	Payment Gateway			: Stripe.
+	Databases & Storage		: MongoDB.
+	Authentication		        : Firebase.
+	Security Key			: JWT.
 	Version Control                 : Git with Smart Git Flow; GitHub.
+ 	Tools				: Visual studio code, Code blocks, Notepad++.
 	
 
 
 
 ### **✅ Have knowledge of the following technologies:**
-	Languages			: C, C++, JAVA
+	Languages			: C, C++.
 	Frameworks/CMS		  	: WordPress, Next JS, Redux.
 	Databases & Storage		: MySql.
 
